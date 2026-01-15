@@ -44,10 +44,10 @@ Dataset contains valuable information that could help us optimize our operations
 13. **Average Orders & Pizza per Day**:Average Orders placed per Day & Pizzas sold per day.
 
 ## reports
-**Performance**
+## Performance
 <img width="583" height="329" alt="pizza_sales_dashboard1" src="https://github.com/user-attachments/assets/a579fd78-5c1b-431a-bf46-730f52804575" />
 
-**Best And Worst Sellers**
+## Best And Worst Sellers
 <img width="580" height="327" alt="pizza_sales_dashboard2" src="https://github.com/user-attachments/assets/92040828-b61d-40cb-9900-1aad8f571c99" />
 
 ## Summary of Findings
